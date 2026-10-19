@@ -41,7 +41,7 @@
   "dependencies": {
     "@atom/babel-plugin-chai-assert-async": "1.0.0",
     "@atom/babel7-transpiler": "1.0.0-1",
-    "@babel/core": "7.x <7.12.10",
+    "@babel/core": "7.x <7.29.8",
     "@babel/generator": "7.8.0",
     "@babel/plugin-proposal-class-properties": "7.8.0",
     "@babel/plugin-proposal-object-rest-spread": "7.8.0",
@@ -52,7 +52,7 @@
     "bytes": "3.1.0",
     "classnames": "2.2.6",
     "compare-sets": "1.0.1",
-    "dompurify": "2.0.17",
+    "dompurify": "3.4.16",
     "dugite": "1.92.0",
     "event-kit": "2.5.3",
     "fs-extra": "4.0.3",
@@ -79,7 +79,7 @@
     "yubikiri": "2.0.0"
   },
   "devDependencies": {
-    "@atom/mocha-test-runner": "1.6.0",
+    "@atom/mocha-test-runner": "1.6.1",
     "babel-plugin-istanbul": "5.2.0",
     "chai": "4.2.0",
     "chai-as-promised": "7.1.1",
@@ -90,7 +90,7 @@
     "electron-mksnapshot": "^9.0.2",
     "enzyme": "3.10.0",
     "enzyme-adapter-react-16": "1.7.1",
-    "eslint": "6.8.0",
+    "eslint": "10.13.0",
     "eslint-config-fbjs-opensource": "1.0.0",
     "eslint-plugin-jsx-a11y": "6.2.3",
     "globby": "10.0.1",
@@ -103,9 +103,9 @@
     "mocha-multi-reporters": "1.1.7",
     "mocha-stress": "1.0.0",
     "node-fetch": "2.6.1",
-    "nyc": "14.1.1",
-    "relay-compiler": "5.0.0",
-    "semver": "6.3.0",
+    "nyc": "18.0.0",
+    "relay-compiler": "21.0.1",
+    "semver": "7.8.5",
     "sinon": "9.0.3",
     "test-until": "1.1.1"
   },
